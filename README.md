@@ -10,6 +10,12 @@ gcc main.c -o calc
 ## Run
 ./calc
 
+## Clone
+git clone https://github.com/thiveth/c-calc
+cd c-calc
+make
+./calc
+
 # Features
 - Add, subtract, multiply, divide
 - Input validation
