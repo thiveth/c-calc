@@ -11,10 +11,13 @@ gcc main.c -o calc
 ./calc
 
 ## Clone
+
+\```
 git clone https://github.com/thiveth/c-calc
 cd c-calc
 make
 ./calc
+\```
 
 # Features
 - Add, subtract, multiply, divide
